@@ -1,0 +1,17 @@
+{
+  "name": "scrap-node-lib",
+  "version": "1.0.0",
+  "description": "the package contain node modules for node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "tester"
+  },
+  "keywords": [
+    "secret"
+  ],
+  "author": "s.h.chandra_sekhar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
+}
