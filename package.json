@@ -1,6 +1,6 @@
 {
   "name": "@cs7player/scrap-node-lib",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "the package contain node modules for node server",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "dependencies": {
     "bcrypt": "^5.1.1",
     "dotenv": "^16.5.0",
-    "mongoose": "^8.13.2"
+    "mongoose": "^8.13.2",
+    "mysql2": "^3.14.0"
   }
 }
